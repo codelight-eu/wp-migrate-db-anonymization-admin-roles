@@ -12,7 +12,7 @@ add_filter('wpmdb_anonymization_user_whitelisted', function($whitelisted, $user)
 
 	if (in_array('administrator', (array) $user->roles) || 
 		in_array('editor', (array) $user->roles) || 
-		in_array('shop-manager', (array) $user->roles ||
+		in_array('shop_manager', (array) $user->roles ||
 		user_can($user, 'manage_options')	
 	)
 	) {
