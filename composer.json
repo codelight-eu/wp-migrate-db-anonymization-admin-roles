@@ -1,0 +1,9 @@
+{
+    "name": "codelight-eu/wp-migrate-db-anonymization-admin-roles",
+    "description": "Prevents anonymizing Administrator, Editor and Shop Manager roles",
+    "license": "GPL-2.0+",
+    "type": "wordpress-muplugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
