@@ -1,6 +1,6 @@
 {
-    "name": "codelight-eu/wp-migrate-db-anonymization-admin-roles",
-    "description": "Prevents anonymizing Administrator, Editor and Shop Manager roles",
+    "name": "codelight-eu/wp-migrate-db-pro-extended",
+    "description": "Prevents anonymizing Administrator, Editor and Shop Manager roles. Uses example.org domains for user emails.",
     "license": "GPL-2.0+",
     "type": "wordpress-muplugin",
     "require": {
