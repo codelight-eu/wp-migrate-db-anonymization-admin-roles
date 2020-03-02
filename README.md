@@ -11,5 +11,7 @@ This super simple mu-plugin extends [WP Migrate DB Pro](https://deliciousbrains.
 2. Install the mu-plugin loader:  
 `composer require lkwdwrd/wp-muplugin-loader`
 
+**IMPORTANT!** If the site crashes after installing the mu-plugin loader, run `composer dump-autoload`.
+
 ## What is this black magic??
 [Read about composer and mu-plugins](https://deliciousbrains.com/wordpress-must-use-plugins-composer/).
