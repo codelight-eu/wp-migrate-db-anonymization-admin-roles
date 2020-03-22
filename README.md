@@ -6,7 +6,7 @@ This super simple mu-plugin extends [WP Migrate DB Pro](https://deliciousbrains.
 
 ## Installation
 1. Install the mu-plugin:  
-`composer require codelight-eu/wp-migrate-db-anonymization-admin-roles`
+`composer require codelight-eu/wp-migrate-db-pro-extended`
 
 2. Install the mu-plugin loader:  
 `composer require lkwdwrd/wp-muplugin-loader`
